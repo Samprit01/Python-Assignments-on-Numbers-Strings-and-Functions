@@ -1,16 +1,16 @@
 # Python Assignment Solutions Directory
 
 ## Section A - Basic Functions and Numbers
-1. Even or Odd - `even_odd_2.py`
-2. Positive, Negative or Zero - `positive_negative_2.py`
-3. Find Largest of Two Numbers - `large2_2.py`
-4. Find Largest of Three Numbers - `large3_2.py`
-5. Sum of Natural Numbers - `sum_natural_2.py`
-6. Multiplication Table - `mult_table_2.py`
-7. Factorial Using Function - `factorial_2.py`
-8. Count Digits - `count_digits_2.py`
-9. Reverse a Number - `num_reverse_2.py`
-10. Prime Number - `prime_2.py`
+1. Even or Odd - `even_odd.py`
+2. Positive, Negative or Zero - `positive_negative.py`
+3. Find Largest of Two Numbers - `large2.py`
+4. Find Largest of Three Numbers - `large3.py`
+5. Sum of Natural Numbers - `sum_natural.py`
+6. Multiplication Table - `mult_table.py`
+7. Factorial Using Function - `factorial.py`
+8. Count Digits - `count_digits.py`
+9. Reverse a Number - `num_reverse.py`
+10. Prime Number - `prime.py`
 
 ## Section B - String-Based Assignments
 11. Count Characters in a String - `char_count.py`
