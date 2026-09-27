@@ -37,4 +37,3 @@
 ## Section D - Loops, Patterns and Menus
 29. Star Pattern - `star.py`
 30. Number Pattern - `number_pattern.py`
-31. 
